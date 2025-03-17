@@ -1,6 +1,6 @@
 body {
-    background-color: #000;
-    color: #fff;
+    background-color: #df3333;
+    color: #1d0202;
     font-family: Arial, sans-serif;
     font-size: 1.5rem;
     line-height: 1.8;
@@ -10,8 +10,8 @@ body {
     }
     
     header {
-    background-color: #ffcc00;
-    color: #000;
+    background-color: #9c9783;
+    color: #ee2828;
     padding: 20px;
     }
     
@@ -24,7 +24,7 @@ body {
     width: 80%;
     max-width: 500px;
     height: auto;
-    border: 5px solid #ffcc00;
+    border: 5px solid #0077ff;
     margin: 20px auto;
     display: block;
     }
@@ -37,13 +37,13 @@ body {
     width: 80%;
     max-width: 600px;
     height: auto;
-    border: 5px solid #ffcc00;
+    border: 5px solid #b42a96;
     margin: 20px auto;
     display: block;
     }
     
     :focus {
-    outline: 3px solid #ffcc00;
+    outline: 3px solid #52c2ee;
     }
     
     @media (max-width: 600px) {
